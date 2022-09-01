@@ -1,0 +1,3 @@
+rm -v %{buildroot}/usr/lib64/libpoppler-cpp*
+rm -v %{buildroot}/usr/lib64/libpoppler-glib*
+rm -v %{buildroot}/usr/lib64/libpoppler-qt*
